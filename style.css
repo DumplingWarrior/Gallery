@@ -16,7 +16,7 @@ header {
     padding-top: 70px;
     padding-bottom: 70px;
     height: auto;
-    background-image: url(images/lungarboy_landscape.JPG);
+    background-image: url(./images/lungarboy_landscape.JPG);
     background-size: cover;
     background-position: center;
 }
